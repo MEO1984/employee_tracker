@@ -3,6 +3,9 @@
 # Description
 A content management system that manages a company's employees. This interface utilizes node, inquirer and MySql to allow business owners to view and manage departments, roles and employees for organization and planning purposes.
 
+# How it Works
+![employee_tracker](https://github.com/MEO1984/employee_tracker/blob/master/Example.gif)
+
 MySql NPM package is used to connect to MySql database and perform queries. 
 
 Inquirer NPM package is used to interact with the user via the command-line by prompts. 
